@@ -8,3 +8,6 @@ mknotebooks
 # mkdocs-macros-plugin
 # mkdocs-redirects
 pdoc3
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pymdown-extensions>=10.16.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
